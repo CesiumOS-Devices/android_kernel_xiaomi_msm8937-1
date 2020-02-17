@@ -12,7 +12,7 @@ before_script:
   - git clone https://github.com/sairam1411/anykernel.git -b master AnyKernel2
   - git clone https://gitlab.com/anirudhgupta109/gcc-prebuilts -b 8.2.1 gcc8
   - git clone https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86 clang
-  - git clone https://github.com/parvezch/scripts bs
+  - git clone https://github.com/sairam1411/script.git bs
 
 notifications:
   webhooks:
